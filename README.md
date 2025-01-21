@@ -1,0 +1,1 @@
+Exercise in automating Github workflows to manage packaging for a Python project, build the base documentation for the package, publish the documentation, release the package to PyPI (Python Package Index test server)
